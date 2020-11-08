@@ -1,0 +1,36 @@
+body{
+    background-color: #f2d5d0;
+    font-family: "Nunito" , sans  serif;
+}
+#mainnavbar .navbar-brand{
+color: #ea1c2c;
+font-size: 1.5rem;
+}
+#mainnavbar .nav-link{
+	color: white;
+}
+#mainnavbar .nav-link:hover {
+	color: #ea1c2c;
+	
+}
+#firstrow span{
+    color:red;
+}
+
+#coupon span{
+    color:red;
+    background-color: green;
+}
+#firstrow h1{
+   font-weight: 10;
+   font-size: 3rem;
+}
+#features h5{
+    color: grey;
+}
+#feature{
+        background-color:wheat;
+    }
+#about{
+    background-color: #fdf3fe;
+}
